@@ -1,0 +1,1 @@
+[{"id":1,"name":"marwa","nationalId":"123456","phoneNumber":"01067451923","memberShip":{"from":"2023-01-01","to":"2024-01-01","cost":500},"status":"freeze","trainerId":102},{"id":2,"name":"marim","nationalId":"741268","phoneNumber":"0105621878","status":"active","trainerId":103},{"name":"maha","trainerId":103,"memberShip":{"from":"2023-01-01","to":"2024-01-01","cost":100}}]
